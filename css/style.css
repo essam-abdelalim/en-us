@@ -16,9 +16,9 @@
     --clr-light: #fff;
     --clr-dark: #303030;
     --clr-accent: #1c243e;
-    --clr-button: #6b9ba7;
+    --clr-button: #64919c;
     --clr-introPart: var(--clr-light);
-    --clr-sectTwo: #badce4;
+    --clr-sectTwo: #b2e1e0;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -134,6 +134,7 @@ h3 { font-size: var(--fs-h3) }
     padding: .25em 1em;
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
+    color: #303030;
 }
 .section__subtitle--work {
     color: var(--clr-button);
@@ -403,7 +404,7 @@ header {
 }
 
 .portfolio__item {
-    background: var(--clr-accent);
+    background: var(--clr-button);
     overflow: hidden;
 }
 
