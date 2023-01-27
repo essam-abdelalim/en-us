@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #38436f;
+    --clr-accent: #1c243e;
     --clr-button: #6b9ba7;
     --clr-introPart: var(--clr-light);
     --clr-sectTwo: #badce4;
@@ -120,6 +120,7 @@ h3 { font-size: var(--fs-h3) }
 .section__subtitle {
     margin: 0;
     font-size: var(--fs-h3);
+    color: rgb(217, 217, 217);
 }
 
 .section__subtitle--intro {
